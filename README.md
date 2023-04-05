@@ -44,7 +44,20 @@ However, swearing occupies a considerable proportion in conversations of all age
 
 ## 📽 Demo Video Link
 
-<img width="900" alt="스크린샷 2023-03-31 오후 10 16 42" src="https://user-images.githubusercontent.com/97823928/229130393-c214db87-d1dd-4545-86d1-a739f49f5dde.png">
+[![스크린샷](https://user-images.githubusercontent.com/97823928/229130393-c214db87-d1dd-4545-86d1-a739f49f5dde.png)](https://www.youtube.com/watch?v=l-GAw5tZXZA&t=1s)
+
+## ✔ How to Run
+
+```bash
+$ git clone https://github.com/dsc-sookmyung/2023-DomiSol-SolutionChallenge.git
+$ cd {path where you cloned the project}
+$ flutter run
+```
+<img width="613" alt="howtorun" src="https://user-images.githubusercontent.com/92504386/229976809-82be4b92-9eb5-4e2c-86a3-e4878bd41f63.png">
+
+```or please go to tab Releases tag and download .zip file```
+
+(*this project only can run in IOS environment.)
 
 ## 👥 Contributors
 
